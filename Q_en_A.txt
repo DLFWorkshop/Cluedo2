@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-0366b8bce6db84a981d166ea113108881ffb49e7 gr delano
-=======
-Benjamin - Wat is je lievelingskleur? - 8b6acec475a5c2a9c6938f2eddc8b2bfc908    e84c
->>>>>>> 5db983b74ce96f41d4835433f89623073adcdbfb
+0366b8bce6db84a981d166ea113108881ffb49e7
