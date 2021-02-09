@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0366b8bce6db84a981d166ea113108881ffb49e7 Ik was aan het slapen, vraag maar aan mama.
 
 8b6acec475a5c2a9c6938f2eddc8b2bfc908
@@ -5,3 +6,6 @@
 5db983b74ce96f41d4835433f89623073adcdbfb
 
 c5fd8d0a399c1a356a1acc5408c053a1513c7826
+=======
+0366b8bce6db84a981d166ea113108881ffb49e7
+>>>>>>> a7b7637e61fdc26c0e234fc87c22cfd1dead1965
